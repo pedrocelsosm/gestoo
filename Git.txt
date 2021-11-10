@@ -26,3 +26,11 @@ git add <arquivo modificado>
 git commit -m "Texto para alteracao"
 git push -u origin <nome branch>
 
+// Para atualizar o projeto localmente
+git pull <Link repositório>
+
+//Deletar arquivo
+git rm <nome arquivo> 
+git commit -m "Texto para alteracao"
+git push -u origin <nome branch>
+
